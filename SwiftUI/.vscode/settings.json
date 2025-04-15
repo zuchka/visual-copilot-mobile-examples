@@ -1,0 +1,5 @@
+{
+    "sourcekit-lsp.serverPath": "",
+    "sourcekit-lsp.trace.server": "off",
+    "swift.diagnostics.enabled": false
+}
